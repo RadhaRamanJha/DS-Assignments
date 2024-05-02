@@ -47,6 +47,9 @@ Implementations of algorithms for text preprocessing, sentiment analysis, topic 
 ### 15. Neural Network:
 Implementation of neural network architectures including feedforward, convolutional, and recurrent neural networks.
 
+## 16. KMeans Clustering:
+Clustering of text document using KMeans and BatchKMeans for the text data. The vectorization of text data is done using both the LSA on Hashed Vectors, Hashed Vectors without LSA as well as TFIDF vectorization further 
+
 ### Usage
 Each algorithm is implemented in a separate Python script. You can simply clone this repository and run the scripts individually. Make sure you have the required libraries installed by running pip install -r requirements.txt.
 
